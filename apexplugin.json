@@ -1,7 +1,7 @@
 {
   "name": "Credit Card",
   "version": "1.0",
-  "description": "Template Component Plugin which can be used to Display Credit Card in report columns and regions.",
+  "description": "Template Component Plugin which can be used to Display Credit Card in report columns and regions. This is a plugin for creating a credit card display. Currently, we've only integrated Visa and Master Card. By importing the plugin the Application Files will be automatically upload.",
   "keywords": ["CREDIT", "CARD", "Visa", "Master Card"],
   "homepage": "https://apex.oracle.com/pls/apex/r/sdembele/a7929120220413113554385/home",
   "bugs": {
