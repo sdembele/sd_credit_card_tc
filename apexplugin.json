@@ -1,9 +1,9 @@
 {
   "name": "Credit Card",
   "version": "1.0",
-  "description": "Template Component Plugin which can be used to Display Credit Card in report columns and regions. Usable as Single (Partial) Template Component Plugin.",
+  "description": "Template Component Plugin which can be used to Display Credit Card in report columns and regions.",
   "keywords": ["CREDIT", "CARD", "Visa", "Master Card"],
-  "homepage": "https://github.com/jon-dixon/country_flags_apex_tcp",
+  "homepage": "https://apex.oracle.com/pls/apex/r/sdembele/a7929120220413113554385/home",
   "bugs": {
     "url": "https://github.com/sdembele/sd_credit_card_tc/issues",
     "email": "dsouleman@gmail.com"
@@ -28,7 +28,7 @@
         "internalName": "SD_CREDIT_CARD_TC",
         "type": "template component",
         "demo": "https://apex.oracle.com/pls/apex/r/sdembele/a7929120220413113554385/credit-cards",
-        "previewImage": "https://raw.githubusercontent.com/jon-dixon/country_flags_apex_tcp/main/assets/Country_Flags_Plugin_Screenshot.png?raw=true"
+        "previewImage": "https://raw.githubusercontent.com/sdembele/sd_credit_card_tc/main/103528030556372.png?raw=true"
       }
     }
   }
